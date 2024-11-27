@@ -1,3 +1,4 @@
+/* ძირითადი სტილები */
 body {
     font-family: Arial, sans-serif;
     background-color: black;
@@ -9,8 +10,8 @@ body {
 /* სათაური */
 .title {
     text-align: center;
-    font-size: 2.5rem;
-    margin-top: 20px;
+    font-size: 3.0rem;
+    margin-top: 40px;
     color: #00bfff; /* ნათელი ცისფერი */
 }
 .one-page {
